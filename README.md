@@ -39,7 +39,7 @@
     
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=soohy00&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Suho's github stats](https://github-readme-stats.vercel.app/api?username=soohy00&theme=white)](https://github.com/anuraghazra/github-readme-stats)
+[![Suho's github stats](https://github-readme-stats.vercel.app/api?username=soohy00&show_icons=true&icon_color=f0f0f0&title_color=ffffff&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <!--
