@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SooHy00&fontSize=70)
+
 ## ✈︎ 안녕하세요
 
 <div align="center">
@@ -13,12 +15,25 @@
 
 ## ✦ Skill
 
-
-  [![Tech Blog Badge](http://img.shields.io/badge/-Python-black?style=flat-square&logo=github)](https://soohy00.github.io/)
+<div align="center">
   
+[![Tech Blog Badge](http://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://soohy00.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Elasticsearch-11B48A?style=flat-square&logo=Elasticsearch&logoColor=white)](https://soohy00.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Kibana-000000?style=flat-square&logo=Kibana&logoColor=white)](https://soohy00.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Fastapi-185E34?style=flat-square&logo=Fastapi&logoColor=white)](https://soohy00.github.io/)
+
+</div> 
   
 ## ⚒︎ Experience
 
+<div align="center">
+  
+|        Institution     |     Department     |      Period     |
+|:----------------:|:----------------:|:--------------------:|
+|   **Sangmyung University**  | business administration |  2022.03 ~|
+
+</div>
+  
 ## ✓ History
 <div align="center">
     
