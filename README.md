@@ -20,7 +20,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://soohy00.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Elasticsearch-11B48A?style=flat-square&logo=Elasticsearch&logoColor=white)](https://soohy00.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Kibana-000000?style=flat-square&logo=Kibana&logoColor=white)](https://soohy00.github.io/)
-[![Tech Blog Badge](http://img.shields.io/badge/-SwiftF6BB43?style=flat-square&logo=Swift&logoColor=orange)](https://soohy00.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Swift-F6BB43?style=flat-square&logo=Swift&logoColor=orange)](https://soohy00.github.io/)
   
 </div> 
   
