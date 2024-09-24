@@ -31,6 +31,7 @@
 |        Institution     |     Department     |      Period     |
 |:----------------:|:----------------:|:--------------------:|
 |   **Sangmyung University**  | business administration |  2022.03 ~|
+|   **1st Infantry Division**  | Rifleman |  2023.03 ~ 2024.09|
 
 </div>
   
