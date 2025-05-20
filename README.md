@@ -1,11 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=SooHy00&fontSize=70)
 
-## ✈︎ 안녕하세요
-
-<div align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoohy00&count_bg=%2362C8F1&title_bg=%2362C8F1&icon=icloud.svg&icon_color=%23E7E7E7&title=Star&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>            
+## ✈︎ 안녕하세요     
 
 <div align="center">
 👏 안녕하세요. 상명대학교에서 경영학부를 전공하고 있습니다.
@@ -22,6 +17,8 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://soohy00.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Elasticsearch-11B48A?style=flat-square&logo=Elasticsearch&logoColor=white)](https://soohy00.github.io/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Swift-ff7f00?style=flat-square&logo=Swift&logoColor=white)](https://soohy00.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-React-40D7FF?style=flat-square&logo=React&logoColor=white)](https://soohy00.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)](https://soohy00.github.io/)
   
 </div> 
   
@@ -38,10 +35,12 @@
   
 ## ✓ History
 <div align="center">
-    
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=soohy00&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=soohy00)](https://github.com/ryo-ma/github-profile-trophy)
+  
 [![Suho's github stats](https://github-readme-stats.vercel.app/api?username=soohy00&show_icons=true&icon_color=f0f0f0&title_color=ffffff&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 </div>
 <!--
