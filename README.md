@@ -10,7 +10,7 @@
 함께 성장하며 빛과 온기를 나누는 리더가 되고 싶습니다.
 </div>
 
-## ✦ Skill
+## ✦ Skill Experience
 
 <div align="center">
   
