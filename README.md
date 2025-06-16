@@ -35,12 +35,12 @@
   
 ## ✓ History
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=soohy00)](https://github.com/ryo-ma/github-profile-trophy)
-  
-[![Suho's github stats](https://github-readme-stats.vercel.app/api?username=soohy00&show_icons=true&icon_color=f0f0f0&title_color=ffffff&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lixx7273)](https://solved.ac/lixx7273/)
+
+[![Suho's github stats](https://github-readme-stats.vercel.app/api?username=soohy00&show_icons=true&icon_color=f0f0f0&title_color=ffffff&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=soohy00)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <!--
