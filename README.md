@@ -36,11 +36,31 @@
 ## ✓ History
 <div align="center">
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soohy00&utm_content=line">
+
+  
+<div align="center"> 
+  <img
+    src="https://render.gitanimals.org/lines/soohy00?pet-id=753532026423705777"
+    width="30%"
+    height="200"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/soohy00?pet-id=753532151258781537"
+    width="30%"
+    height="200"
+  />
+    <img
+    src="https://render.gitanimals.org/lines/soohy00?pet-id=753532079531983519"
+    width="30%"
+    height="200"
+  />
+</div>
+  
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lixx7273)](https://solved.ac/lixx7273/)
 
 [![Suho's github stats](https://github-readme-stats.vercel.app/api?username=soohy00&show_icons=true&icon_color=f0f0f0&title_color=ffffff&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=soohy00)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <!--
